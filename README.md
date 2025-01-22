@@ -47,18 +47,24 @@ Stateflow
 Embedded Coder
 
 
-onal requirements and test cases
-├── Code/           # Generated C code and configurations
-       # Test and coverage rts
-└── Documentation/  # Detailed project documentation
 
 How to Run
-
 Clone the repository and open MATLAB.
+Execute the following steps:
+Run the Parameters.m file to load the required parameters.
+Open and run the LKA.slx Simulink model.
+In the simulation toolstrip, under Review Results, click on Bird’s-Eye Scope to visualize the simulation.
+Click on Update Signals and then on Run to start the simulation.
 
-Navigate to the project directory and open the Simulink model.
-Configure the workspace by running the provided initialization script.
-Execute the simulation to visualize the system performance in different scenarios.
+
+
+Included Files
+LKA.slx: Simulink model of the Lane Keep Assist system.
+Parameters.m: Contains parameters for the ego vehicle, controller, and other analysis variables.
+Functional_Requirements.slreqx: Functional requirements for system design and verification.
+Scenarios.zip: Driving Scenario Designer files for testing.
+Testing.zip: Test harnesses and inputs for MIL and SIL testing.
+C Code.zip: Generated C code for the controller.
 
 
 
@@ -68,5 +74,9 @@ Advanced control systems (Stanley Controller, Stateflow, and MPC).
 MIL and SIL testing for robust validation.
 Scenario-based testing and sensor modeling.
 
+
+
 Author:
 Kripanshu Yadav
+Dept. of Commercial Vehicle Technology, 
+RPTU Kaiserslautern, Germany
