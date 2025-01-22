@@ -77,6 +77,6 @@ Scenario-based testing and sensor modeling.
 
 
 Author:
-Kripanshu Yadav
+Kripanshu Yadav,
 Dept. of Commercial Vehicle Technology, 
 RPTU Kaiserslautern, Germany
