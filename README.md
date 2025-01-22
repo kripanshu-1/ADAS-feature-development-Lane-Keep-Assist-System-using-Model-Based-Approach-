@@ -1,4 +1,4 @@
-# ADAS-feature-development-Lane-Keep-Assist-System-using-Model-Based-Approach-
+# ADAS-feature-development-Lane-Keep-Assist-System-using-Model-Based-Development-Approach
 
 This repository contains the development of a Lane Keep Assist (LKA) system for autonomous vehicles, designed using Model-Based Development (MBD) with MATLAB/Simulink. The project follows a structured approach to create a closed-loop system for assisting vehicles to stay within lane boundaries. The system is developed, tested, and validated using MathWorks toolboxes and includes Model-in-the-Loop (MIL) and Software-in-the-Loop (SIL) testing to ensure compliance with functional requirements.
 
