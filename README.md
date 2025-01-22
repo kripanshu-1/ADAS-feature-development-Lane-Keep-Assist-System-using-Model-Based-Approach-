@@ -48,10 +48,6 @@ Embedded Coder
 
 
 
-
-https://github.com/user-attachments/assets/51015333-8104-4235-b1e0-2f302f639a68
-
-
 How to Run
 Clone the repository and open MATLAB.
 Execute the following steps:
@@ -59,6 +55,9 @@ Run the Parameters.m file to load the required parameters.
 Open and run the LKA.slx Simulink model.
 In the simulation toolstrip, under Review Results, click on Bird’s-Eye Scope to visualize the simulation.
 Click on Update Signals and then on Run to start the simulation.
+
+
+https://github.com/user-attachments/assets/51015333-8104-4235-b1e0-2f302f639a68
 
 
 
