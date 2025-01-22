@@ -38,14 +38,7 @@ Created functional requirements using MATLAB Requirements Editor.
 Built test harnesses and conducted MIL and SIL testing using Simulink Test.
 Verified functionality and generated embedded C code using the Embedded Coder toolbox.
 
-Toolbox Required:
-MATLAB
-Simulink
-Automated Driving Toolbox
-Simulink Test
-Stateflow
-Embedded Coder
-
+Toolbox Required: MATLAB; Simulink; Automated Driving Toolbox; Simulink Test; Stateflow; Embedded Coder
 
 
 How to Run
