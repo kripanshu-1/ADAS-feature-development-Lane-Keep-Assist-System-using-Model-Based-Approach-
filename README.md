@@ -6,7 +6,8 @@ This repository contains the development of a Lane Keep Assist (LKA) system for 
 ![LKA_pages-to-jpg-0001](https://github.com/user-attachments/assets/53db8718-e549-4134-b855-9be5919766c2)
 [LKA.pdf](https://github.com/user-attachments/files/18512438/LKA.pdf)
 
-Features
+Features:
+
 Prediction and Sensor Fusion Subsystem:
 Developed using the Automated Driving Toolbox’s Driving Scenario Designer. Simulates road environments, actors, and ego vehicle sensors.
 Outputs parameters like curvature, curvature derivative, heading angle, and lateral offset after sensor data processing.
@@ -20,7 +21,7 @@ Modeled using the bicycle model with longitudinal, lateral, and yaw dynamics. Pr
 
 
 
-Development Workflow
+Development Workflow:
 
 Driving Scenario Design:
 Created scenarios with roads, actors, and sensor-equipped ego vehicles.
@@ -43,7 +44,7 @@ Verified functionality and generated embedded C code using the Embedded Coder to
 Toolbox Required: MATLAB; Simulink; Automated Driving Toolbox; Simulink Test; Stateflow; Embedded Coder
 
 
-How to Run
+How to Run:
 Clone the repository and open MATLAB.
 Execute the following steps:
 Run the Parameters.m file to load the required parameters.
